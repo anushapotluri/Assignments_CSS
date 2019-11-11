@@ -1,0 +1,18 @@
+body{
+    border: 20px solid gray;
+    margin: 10px 20% 0 20%;
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+article p:first-child {
+color: blue;
+text-transform: uppercase;
+letter-spacing: 2px;
+}
+h1 {
+color: gainsboro;
+}
+article p:nth-child(3) {
+border-left: 5px solid gray;
+padding-left:4px;
+}
